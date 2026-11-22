@@ -38,9 +38,9 @@ Currently surviving my third year of BS Computer Science at **UP Visayas**. ♡
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perky-boo25&show_icons=true&count_private=true&hide_border=true&bg_color=0f1020&title_color=a78bfa&text_color=e5e7eb&icon_color=f472b6&ring_color=a78bfa" width="32%" />
-  <img src="https://streak-stats.demolab.com/?user=perky-boo25&hide_border=true&background=0f1020&ring=a78bfa&fire=f472b6&currStreakNum=e5e7eb&sideNums=a78bfa&currStreakLabel=f472b6&sideLabels=a78bfa&dates=9ca3af" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perky-boo25&layout=compact&hide_border=true&bg_color=0f1020&title_color=a78bfa&text_color=e5e7eb" width="32%" />
+  <img src="./assets/stats.svg" alt="Percie's GitHub Stats" width="32%" />
+  <img src="./assets/streak.svg" alt="Percie's GitHub Streak" width="32%" />
+  <img src="./assets/top-langs.svg" alt="Percie's Most Used Languages" width="32%" />
 </p>
 
 ---
