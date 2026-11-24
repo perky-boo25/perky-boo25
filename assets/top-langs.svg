@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" role="img" aria-labelledby="langsTitle langsDesc">
   <title id="langsTitle">Most Used Languages</title>
-  <desc id="langsDesc">HTML: 60.11%, Dart: 15.46%, CSS: 11.20%, JavaScript: 10.89%, C++: 1.33%, CMake: 1.01%</desc>
+  <desc id="langsDesc">HTML: 55.85%, Dart: 21.44%, CSS: 10.41%, JavaScript: 10.12%, C++: 1.24%, CMake: 0.94%</desc>
   <style>
     .header {
       font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -26,39 +26,39 @@
       <rect x="0" y="0" width="445" height="10" rx="5" fill="white"/>
     </mask>
     <rect x="0" y="0" width="445" height="10" rx="5" fill="#1f2037"/>
-    <rect mask="url(#langBarMask)" x="0.00" y="0" width="267.49" height="10" fill="#e34c26"/>
-    <rect mask="url(#langBarMask)" x="267.49" y="0" width="68.80" height="10" fill="#00B4AB"/>
-    <rect mask="url(#langBarMask)" x="336.29" y="0" width="49.84" height="10" fill="#663399"/>
-    <rect mask="url(#langBarMask)" x="386.13" y="0" width="48.46" height="10" fill="#f1e05a"/>
-    <rect mask="url(#langBarMask)" x="434.59" y="0" width="5.92" height="10" fill="#f34b7d"/>
-    <rect mask="url(#langBarMask)" x="440.51" y="0" width="4.49" height="10" fill="#DA3434"/>
+    <rect mask="url(#langBarMask)" x="0.00" y="0" width="248.53" height="10" fill="#e34c26"/>
+    <rect mask="url(#langBarMask)" x="248.53" y="0" width="95.41" height="10" fill="#00B4AB"/>
+    <rect mask="url(#langBarMask)" x="343.94" y="0" width="46.32" height="10" fill="#663399"/>
+    <rect mask="url(#langBarMask)" x="390.26" y="0" width="45.03" height="10" fill="#f1e05a"/>
+    <rect mask="url(#langBarMask)" x="435.30" y="0" width="5.52" height="10" fill="#f34b7d"/>
+    <rect mask="url(#langBarMask)" x="440.82" y="0" width="4.18" height="10" fill="#DA3434"/>
   </g>
 
   <!-- Language Legend -->
   <g transform="translate(25, 92)">
     <g transform="translate(0, 0)">
       <circle cx="6" cy="6" r="6" fill="#e34c26"/>
-      <text x="20" y="10" class="lang-name">HTML <tspan class="lang-pct">60.11%</tspan></text>
+      <text x="20" y="10" class="lang-name">HTML <tspan class="lang-pct">55.85%</tspan></text>
     </g>
     <g transform="translate(0, 28)">
       <circle cx="6" cy="6" r="6" fill="#00B4AB"/>
-      <text x="20" y="10" class="lang-name">Dart <tspan class="lang-pct">15.46%</tspan></text>
+      <text x="20" y="10" class="lang-name">Dart <tspan class="lang-pct">21.44%</tspan></text>
     </g>
     <g transform="translate(0, 56)">
       <circle cx="6" cy="6" r="6" fill="#663399"/>
-      <text x="20" y="10" class="lang-name">CSS <tspan class="lang-pct">11.20%</tspan></text>
+      <text x="20" y="10" class="lang-name">CSS <tspan class="lang-pct">10.41%</tspan></text>
     </g>
     <g transform="translate(220, 0)">
       <circle cx="6" cy="6" r="6" fill="#f1e05a"/>
-      <text x="20" y="10" class="lang-name">JavaScript <tspan class="lang-pct">10.89%</tspan></text>
+      <text x="20" y="10" class="lang-name">JavaScript <tspan class="lang-pct">10.12%</tspan></text>
     </g>
     <g transform="translate(220, 28)">
       <circle cx="6" cy="6" r="6" fill="#f34b7d"/>
-      <text x="20" y="10" class="lang-name">C++ <tspan class="lang-pct">1.33%</tspan></text>
+      <text x="20" y="10" class="lang-name">C++ <tspan class="lang-pct">1.24%</tspan></text>
     </g>
     <g transform="translate(220, 56)">
       <circle cx="6" cy="6" r="6" fill="#DA3434"/>
-      <text x="20" y="10" class="lang-name">CMake <tspan class="lang-pct">1.01%</tspan></text>
+      <text x="20" y="10" class="lang-name">CMake <tspan class="lang-pct">0.94%</tspan></text>
     </g>
   </g>
 </svg>
